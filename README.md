@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J2on
-      I love soccer
-      I'm big fan of EvertonFC
+-     I love soccer
+-     I'm big fan of EvertonFC
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
