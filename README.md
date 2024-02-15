@@ -10,9 +10,11 @@
 <br><br><br>
 
 <div align=center>
-    <a>
+    <div align=left>
+      <a>
       <img align="center" width=450 src="https://streak-stats.demolab.com/?user=J2on&theme=dark" />
-    </a>
+        </a>
+    <div align=right>
   </div>
   
 <div align=center>
