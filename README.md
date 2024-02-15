@@ -1,5 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=venom&color=808080&height=200&section=header&text=J2on's%20GitHub&fontSize=50&animation=scaleIn&stroke=4169e1)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J2on)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J2on)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J2on)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
