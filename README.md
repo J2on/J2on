@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=808080&height=200&section=header&text=J2on's%20GitHub&fontSize=50&animation=scaleIn&stroke=4169e1)
 
+<div align=center>
+    <a>
+      <img align="center" width=600 src="https://github-readme-stats.vercel.app/api?username=J2on&show_icons=true&theme=dark" />
+    </a>
+
+  </div>
 
 <div align=center>
     <a>
@@ -10,6 +16,7 @@
     </a>
   </div>
 
+<br><br><br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=J2on&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
