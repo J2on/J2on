@@ -15,6 +15,7 @@
           <img width=420 src="https://streak-stats.demolab.com/?user=J2on&theme=moltack" />
         </a>
         <a>
+           <br><br>   
           <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=J2on&hide_progress=true&layout=pie&theme=moltack" />
         </a>
     </div>
