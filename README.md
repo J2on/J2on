@@ -23,6 +23,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=J2on&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FFDD9B&height=100&section=footer)
+
 
 
 <!---
