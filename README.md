@@ -3,10 +3,10 @@
 
 <div align=center>
     <a>
-      <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=J2on&show_icons=true&theme=dark" />
+      <img align="left" width=425 src="https://github-readme-stats.vercel.app/api?username=J2on&show_icons=true&theme=dark" />
     </a>
     <a>
-      <img align="right" width=400 src="https://streak-stats.demolab.com/?user=J2on&theme=dark" />
+      <img align="right" width=425 src="https://streak-stats.demolab.com/?user=J2on&theme=dark" />
     </a>
   </div>
 
