@@ -1,30 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=808080&height=200&section=header&text=J2on's%20GitHub&fontSize=50&animation=scaleIn&stroke=4169e1)
 
 <div align=center>
-    <a>
-      <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=J2on&show_icons=true&theme=dark" />
-    </a>
-
-  </div>
-  
-<br><br><br>
-
-<div align=center>
-    <div align=left>
-      <a>
-      <img align="center" width=450 src="https://streak-stats.demolab.com/?user=J2on&theme=dark" />
+    <div style="display: flex; justify-content: center;">
+        <a>
+          <img width=400 src="https://github-readme-stats.vercel.app/api?username=J2on&show_icons=true&theme=dark" />
+                        &nbsp;
         </a>
-    <div align=right>
-  </div>
-  
-<div align=center>
-    <a>
-      <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=J2on&show_icons=true&theme=dark" />
-    </a>
-    <a>
-      <img align="right" width=400 src="https://streak-stats.demolab.com/?user=J2on&theme=dark" />
-    </a>
-  </div>
+        <a>
+            &nbsp;
+          <img width=420 src="https://streak-stats.demolab.com/?user=J2on&theme=dark" />
+        </a>
+    </div>
+</div>
+
 
 <br><br><br>
 
