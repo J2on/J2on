@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=808080&height=200&section=header&text=J2on's%20GitHub&fontSize=50&animation=scaleIn&stroke=4169e1)
 
 
-<br><br>
+<br>
 
 
 <div align=center>
