@@ -2,11 +2,19 @@
 
 <div align=center>
     <a>
-      <img align="center" width=600 src="https://github-readme-stats.vercel.app/api?username=J2on&show_icons=true&theme=dark" />
+      <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=J2on&show_icons=true&theme=dark" />
     </a>
 
   </div>
+  
+<br><br><br>
 
+<div align=center>
+    <a>
+      <img align="center" width=450 src="https://streak-stats.demolab.com/?user=J2on&theme=dark" />
+    </a>
+  </div>
+  
 <div align=center>
     <a>
       <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=J2on&show_icons=true&theme=dark" />
