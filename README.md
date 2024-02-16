@@ -21,6 +21,8 @@
     </div>
 </div>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=j2on)](https://solved.ac/j2on)
 <br><br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=J2on&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
