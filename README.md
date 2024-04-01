@@ -16,9 +16,6 @@
         </a>
         <a>
            <br><br>   
-          <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=J2on&hide_progress=true&layout=pie&theme=moltack" />
-        </a>
-    </div>
 </div>
 
 [![Solved.ac
