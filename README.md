@@ -3,30 +3,17 @@
 
 <br>
 
+2019 : 경희대학교 소프트웨어융합학과 (게임콘텐츠 트랙)  
+2024 : 스마일게이트 UNSEEN 2기
 
-<div align=center>
-    <div style="display: flex; justify-content: center;">
-        <a>
-          <img width=400 src="https://github-readme-stats.vercel.app/api?username=J2on&show_icons=true&theme=moltack" />
-                        &nbsp;
-        </a>
-        <a>
-            &nbsp;
-          <img width=420 src="https://streak-stats.demolab.com/?user=J2on&theme=moltack" />
-        </a>
-        <a>
-           <br><br>   
-</div>
+
+
+
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=j2on)](https://solved.ac/j2on)
 <br><br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=J2on&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=FFDD9B&height=100&section=footer)
-
 
 
 <!---
