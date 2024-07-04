@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=EFD8A9&height=200&section=header&text=J2on's%20GitHub&fontSize=50&fontColor=A62424&animation=scaleIn&stroke=A62424)
-
 
 <br>
 
